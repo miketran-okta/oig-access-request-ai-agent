@@ -1,0 +1,9 @@
+# Node modules directory
+node_modules/
+
+# Lock file (optional, but often good practice for consistency)
+package-lock.json
+
+backup/
+
+.env
